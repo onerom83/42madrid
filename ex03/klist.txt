@@ -1,0 +1,5 @@
+Credentials cache: API:DC8D2F0E-8651-454B-AA0F-E78B69261724
+        Principal: jporta@42MADRID.COM
+
+  Issued                Expires             Flags    Principal
+Jun 21 14:40:21 2021  Jun 22 00:40:16 2021  FPIA   krbtgt/42MADRID.COM@42MADRID.COM
